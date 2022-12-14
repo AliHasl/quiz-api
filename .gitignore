@@ -13,3 +13,6 @@ dist/
 
 # zip file is generated, so don't store in git
 *.zip
+
+#ignore the generated package-lock
+package-lock.json
